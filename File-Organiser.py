@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Change this to the folder you want to organize
-folder_to_organize = "C:/Users/Ben/Downloads"
+folder_to_organize = "C:/Users/.../Downloads"
 
 # File types and their folders
 file_types = {
